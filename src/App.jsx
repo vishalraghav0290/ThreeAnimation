@@ -25,7 +25,7 @@ export default function Home() {
       {/* <VantaTrunkBackground/> */}
       <ScrollSplit/>
       <firstLayer/>
-       {/* <div>  <CanvasContainer /></div> */}
+       <div className="flex z-auto">  <CanvasContainer /></div>
     
        {/* <div ref={containerRef} className="relative z-20">
               <HeroSection />

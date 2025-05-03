@@ -22,7 +22,7 @@ const CanvasContainer = () => {
     <div className="relative w-full h-screen flex items-center justify-center bg-blue-150">
  
       
-      <div className="absolute inset-0">
+      <div className="absolute inset-0 z-[100%]">
      
 
         <CyberCanvas 
